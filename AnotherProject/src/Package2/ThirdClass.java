@@ -6,6 +6,7 @@ public class ThirdClass {
 		
 		System.out.println("This is the third class");
 		System.out.println("second line in thrird class");
+		System.out.println("Added third line in third class");
 
 	}
 
