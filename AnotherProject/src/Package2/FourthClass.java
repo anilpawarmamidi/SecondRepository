@@ -1,18 +1,16 @@
 package Package2;
 
 public class FourthClass {
-	
-	int a=10,b=20,c;
+	int a=10, b=20, d;
 	
 	public void add()
 	{
-		c = a+b;
-		System.out.println("The addition of A & B is " + c);
+		d=a+b;
+		System.out.println("The addition of A and B is " + d);
 	}
-	
-	public static void main(String[] args) {
-	
-		
-	}
-
+	public static void main(String[] args) 
+  {
+    
+  }
+  
 }
